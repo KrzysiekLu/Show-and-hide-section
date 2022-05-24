@@ -21,11 +21,10 @@
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.5rem;
-    box-shadow: 0px 15px 20px -10px white;
+
     transition: all 0.2s ease-in-out;
     &:hover {
       transform: translateY(-2px);
-      box-shadow: 0px 17px 20px -10px white;
     }
     &:active {
       background-color: white;
@@ -55,7 +54,7 @@
   }
 }
 .show-element {
-  height: 500px;
+  height: 400px;
   opacity: 1;
   display: flex;
   align-items: center;
