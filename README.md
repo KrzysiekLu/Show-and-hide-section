@@ -4,7 +4,7 @@ A simple exercise to create an opening and closing section
 
 ### Links
 
-- # Live Site URL: [open-and-close-section.netlify.app](open-and-close-section.netlify.app/)
+- # Live Site URL: [open-and-close-section.netlify.app](open-and-close-section.netlify.app)
 
 # Show-and-hide-section
 
